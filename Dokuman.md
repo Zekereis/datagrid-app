@@ -1,7 +1,8 @@
     Proje Dökümantasyonu: React Tablo Uygulaması
 
     1. Proje Hedefi:
-    Bu proje, kullanıcıların sosyal medya hesaplarını görüntüleyebilecekleri, filtreleyebilecekleri ve yeni hesaplar ekleyebilecekleri bir tablo uygulaması oluşturmayı hedeflemektedir.
+    Bu proje, kullanıcıların sosyal medya hesaplarını görüntüleyebilecekleri, filtreleyebilecekleri 
+    ve yeni hesaplar ekleyebilecekleri bir tablo uygulaması oluşturmayı hedeflemektedir.
 
     2. Geliştirme Adımları:
 
